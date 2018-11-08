@@ -5,6 +5,7 @@ import java.util.stream.Collectors;
 
 public class Stream {
 
+//    Some changes to commit
     public static void main(String args[]) {
         // Count the empty strings
         List<String> strList = Arrays.asList("abc", "", "bcd", "", "defg", "jk");
